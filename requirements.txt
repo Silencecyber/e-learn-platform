@@ -1,0 +1,4 @@
+bleach
+ckeditor
+django
+pillow
