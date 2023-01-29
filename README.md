@@ -10,8 +10,13 @@ Conditionally there is a course "English B1", it has a module "Grammar", in this
 There are 3 types of users on the platform:
 
 1.Superuser
-2. Teacher
+
+
+2.Teacher
+
+
 3.Student
+
 
 What can a teacher do?
 1. See general statistics, various graphs showing various kinds of information, such as which course is the most popular, the ratio of students to teachers, etc.
@@ -29,6 +34,8 @@ What can a student do?
 5. Edit information on its profile, change its password.
 
 What can the superuser do?
+
+
 The superuser can do everything that a regular teacher can do, but he has no restrictions regarding the authorship of a particular course, he can view, edit, delete, create any materials, he can delete teachers. It can also get into the site admin panel if it is enabled.
 
 The database structure of this project will be presented below with a description, without taking into account the pre-installed django models.
@@ -41,19 +48,45 @@ https://dbdiagram.io/d/63d16d5f296d97641d7c1cf8
 Brief description of models:
 
 Profile - a model that describes the user's profile.
+
+
 Subscriber - a model describing the subscriber of the course.
+
+
 Course - a model describing a course.
+
+
 Module - a model that describes the module of the course.
+
+
 Topic - a model describing the module's topic.
+
+
 Got -  a model that was created to monitor whether a topic is understood by a student.
+
+
 Quiz - a model describing a quiz.
+
+
 Question - a model describing a quiz question.
+
+
 Answer - a model describing the answer to the question.
+
+
 QuizResult - a model describing the result of a completed quiz.
 
+
+
 Technology stack:
+
+
 Backend: Python(Django),SQLite.
+
+
 Frontend: HTML,CSS,JS,JQuery,Bootstrap,Highcharts,Webflow.
+
+
 
 A brief demo of the platform functionality can be viewed here:
 https://www.youtube.com/watch?v=8ckpOgUwmGA
