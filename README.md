@@ -91,3 +91,5 @@ Frontend: HTML,CSS,JS,JQuery,Bootstrap,Highcharts,Webflow.
 A brief demo of the platform functionality can be viewed [here](
 https://www.youtube.com/watch?v=8ckpOgUwmGA)
 
+P.S fake_data_generators folder consists of scripts that allow to generate random data, such as random students,teacher,courses,progress,subscriptions  
+
