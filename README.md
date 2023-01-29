@@ -35,7 +35,7 @@ The database structure of this project will be presented below with a descriptio
 
  ![image](https://user-images.githubusercontent.com/96882434/215338423-5f375910-05e2-4c28-aa8b-3ffe1a4447ad.png)
 
-The interactive structure can be viewed here.
+The interactive structure can be viewed here:
 https://dbdiagram.io/d/63d16d5f296d97641d7c1cf8
 
 Brief description of models:
@@ -55,6 +55,6 @@ Technology stack:
 Backend: Python(Django),SQLite.
 Frontend: HTML,CSS,JS,JQuery,Bootstrap,Highcharts,Webflow.
 
-A brief demo of the platform functionality can be viewed here.
+A brief demo of the platform functionality can be viewed here:
 https://www.youtube.com/watch?v=8ckpOgUwmGA
 
