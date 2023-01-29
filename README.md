@@ -42,39 +42,39 @@ The database structure of this project will be presented below with a descriptio
 
  ![image](https://user-images.githubusercontent.com/96882434/215338423-5f375910-05e2-4c28-aa8b-3ffe1a4447ad.png)
 
-The interactive structure can be viewed here:
-https://dbdiagram.io/d/63d16d5f296d97641d7c1cf8
+The interactive structure can be viewed [here](
+https://dbdiagram.io/d/63d16d5f296d97641d7c1cf8)
 
 Brief description of models:
 
-Profile - a model that describes the user's profile.
+**Profile** - a model that describes the user's profile.
 
 
-Subscriber - a model describing the subscriber of the course.
+**Subscriber** - a model describing the subscriber of the course.
 
 
-Course - a model describing a course.
+**Course** - a model describing a course.
 
 
-Module - a model that describes the module of the course.
+**Module** - a model that describes the module of the course.
 
 
-Topic - a model describing the module's topic.
+**Topic** - a model describing the module's topic.
 
 
-Got -  a model that was created to monitor whether a topic is understood by a student.
+**Got** -  a model that was created to monitor whether a topic is understood by a student.
 
 
-Quiz - a model describing a quiz.
+**Quiz** - a model describing a quiz.
 
 
-Question - a model describing a quiz question.
+**Question** - a model describing a quiz question.
 
 
-Answer - a model describing the answer to the question.
+**Answer** - a model describing the answer to the question.
 
 
-QuizResult - a model describing the result of a completed quiz.
+**QuizResult** - a model describing the result of a completed quiz.
 
 
 
@@ -88,6 +88,6 @@ Frontend: HTML,CSS,JS,JQuery,Bootstrap,Highcharts,Webflow.
 
 
 
-A brief demo of the platform functionality can be viewed here:
-https://www.youtube.com/watch?v=8ckpOgUwmGA
+A brief demo of the platform functionality can be viewed [here](
+https://www.youtube.com/watch?v=8ckpOgUwmGA)
 
