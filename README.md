@@ -84,7 +84,7 @@ Technology stack:
 Backend: Python(Django),SQLite.
 
 
-Frontend: HTML,CSS,JS,JQuery,Bootstrap,Highcharts,Webflow.
+Frontend: HTML,CSS,JS,JQuery,Bootstrap,Highcharts(for different graphs),Webflow(for pages design).
 
 
 
