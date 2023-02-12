@@ -91,5 +91,13 @@ Frontend: HTML,CSS,JS,JQuery,Bootstrap,Highcharts(for different graphs),Webflow(
 A brief demo of the platform functionality can be viewed [here](
 https://www.youtube.com/watch?v=8ckpOgUwmGA)
 
+
+To run this app in a docker container use this command (creds: admin-admin)
+```
+docker run -p 8000:8000 silence0809/elearn
+
+```
+
+
 P.S fake_data_generators folder consists of scripts that allow to generate random data, such as random students,teacher,courses,progress,subscriptions  
 
