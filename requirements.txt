@@ -1,4 +1,5 @@
 bleach
-ckeditor
+django-ckeditor
+tinycss2
 django
 pillow
